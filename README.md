@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-C#               10 hrs 28 mins  █████████████████████████   99.64 % 
+C#               10 hrs 14 mins  █████████████████████████   99.63 % 
 UnityYaml        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 <!--END_SECTION:waka-->
