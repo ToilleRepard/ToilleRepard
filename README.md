@@ -1,12 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#               80 hrs 55 mins  ███████████████████▓░░░░░   79.20 %
-unity            8 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-ShaderLab        6 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-UnityYaml        1 hr 31 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Python           1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Text             1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
