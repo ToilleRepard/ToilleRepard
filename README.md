@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#               94 hrs 17 mins  ███████████████▒░░░░░░░░░   61.23 %
-unity            24 hrs 42 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-JavaScript       7 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-ShaderLab        6 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-TypeScript       6 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Jupyter          5 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+C#               94 hrs 17 mins  ███████████████▒░░░░░░░░░   60.88 %
+unity            24 hrs 42 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+JavaScript       7 hrs 54 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+TypeScript       6 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+ShaderLab        6 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Jupyter          5 hrs 48 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
