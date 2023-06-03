@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript              48 hrs 39 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
 Java                    48 hrs 35 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
 Jupyter                 41 hrs 37 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
